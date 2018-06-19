@@ -1,5 +1,7 @@
 # Application_Sequencing
 
+*Update check out the hash version for improved runtime
+
 This code was written in the Jupyter notebook, and in python
 The file code which has the relevant FINAL DRAFT is StanApp.ipynb 
 
